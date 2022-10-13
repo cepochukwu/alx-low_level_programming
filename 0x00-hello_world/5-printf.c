@@ -1,6 +1,10 @@
 #include <stdio.h>
-/*
- * this progran describes c
+/**
+ * main - Entry point
+ *
+ * Description: 'this program prints an output'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
