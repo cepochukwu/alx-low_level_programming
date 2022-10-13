@@ -7,5 +7,6 @@
  */
 int main(viod)
 {
+	printf("cepochukwu");
 	return (0);
 }
