@@ -7,6 +7,6 @@
  */
 int main(viod)
 {
-	printf("cepochukwu\n");
+	puts("cepochukwu\n");
 	return (0);
 }
